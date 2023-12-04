@@ -1,4 +1,4 @@
-module fleet.sample.frontendImpl {
+module fleet.keymaps.ijClassic.frontendImpl {
     requires fleet.frontend;
     requires fleet.kernel;
     requires fleet.noria.ui;
