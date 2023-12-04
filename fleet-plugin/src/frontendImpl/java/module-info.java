@@ -4,8 +4,7 @@ module fleet.sample.frontendImpl {
     requires fleet.noria.ui;
     requires fleet.rhizomedb;
     requires fleet.frontend.ui;
-    requires fleet.sample.commonImpl;
 
-    exports fleet.sample.frontendImpl;
-    provides fleet.kernel.plugins.Plugin with fleet.sample.frontendImpl.MyPlugin;
+    exports fleet.keymaps.ijClassic.frontendImpl;
+    provides fleet.kernel.plugins.Plugin with fleet.keymaps.ijClassic.frontendImpl.IntelliJClassicKeymapPlugin;
 }
