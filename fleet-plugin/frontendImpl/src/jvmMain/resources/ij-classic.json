@@ -2,928 +2,928 @@
   "keymap": [
     {
       "key": "left",
-      "trigger": "arrow-left"
+      "action": "arrow-left"
     },
     {
       "key": "shift-left",
-      "trigger": "shift-arrow-left"
+      "action": "shift-arrow-left"
     },
     {
       "key": "right",
-      "trigger": "arrow-right"
+      "action": "arrow-right"
     },
     {
       "key": "shift-right",
-      "trigger": "shift-arrow-right"
+      "action": "shift-arrow-right"
     },
     {
       "key": "up",
-      "trigger": "arrow-up"
+      "action": "arrow-up"
     },
     {
       "key": "shift-up",
-      "trigger": "shift-arrow-up"
+      "action": "shift-arrow-up"
     },
     {
       "key": "down",
-      "trigger": "arrow-down"
+      "action": "arrow-down"
     },
     {
       "key": "shift-down",
-      "trigger": "shift-arrow-down"
+      "action": "shift-arrow-down"
     },
     {
       "key": "shift-return",
-      "trigger": "new-line"
+      "action": "new-line"
     },
     {
       "key": "shift-numpadreturn",
-      "trigger": "new-line"
+      "action": "new-line"
     },
     {
       "key": "alt-cmd-return",
-      "trigger": "new-line-above"
+      "action": "new-line-above"
     },
     {
       "key": "alt-cmd-numpadreturn",
-      "trigger": "new-line-above"
+      "action": "new-line-above"
     },
     {
       "key": "cmd-shift-return",
-      "trigger": "insert-newline-character"
+      "action": "insert-newline-character"
     },
     {
       "key": "cmd-shift-numpadreturn",
-      "trigger": "insert-newline-character"
+      "action": "insert-newline-character"
     },
     {
       "key": "ctrl-shift-j",
-      "trigger": "join-lines"
+      "action": "join-lines"
     },
     {
       "key": "escape",
-      "trigger": "cancel"
+      "action": "cancel"
     },
     {
       "key": "space",
-      "trigger": "select"
+      "action": "select"
     },
     {
       "key": "space",
-      "trigger": "toggle"
+      "action": "toggle"
     },
     {
       "key": "tab",
-      "trigger": "tab"
+      "action": "tab"
     },
     {
       "key": "tab",
-      "trigger": "focus-next"
+      "action": "focus-next"
     },
     {
       "key": "shift-tab",
-      "trigger": "remove-tab"
+      "action": "remove-tab"
     },
     {
       "key": "shift-tab",
-      "trigger": "focus-prev"
+      "action": "focus-prev"
     },
     {
       "key": "home",
-      "trigger": "home"
+      "action": "home"
     },
     {
       "key": "end",
-      "trigger": "end"
+      "action": "end"
     },
     {
       "key": "shift-home",
-      "trigger": "shift-home"
+      "action": "shift-home"
     },
     {
       "key": "shift-end",
-      "trigger": "shift-end"
+      "action": "shift-end"
     },
     {
       "key": "pageup",
-      "trigger": "page-up"
+      "action": "page-up"
     },
     {
       "key": "pagedown",
-      "trigger": "page-down"
+      "action": "page-down"
     },
     {
       "key": "shift-pageup",
-      "trigger": "shift-page-up"
+      "action": "shift-page-up"
     },
     {
       "key": "shift-pagedown",
-      "trigger": "shift-page-down"
+      "action": "shift-page-down"
     },
     {
       "key": "delete",
-      "trigger": "delete-forward"
+      "action": "delete-forward"
     },
     {
       "key": "backspace",
-      "trigger": "delete-backward"
+      "action": "delete-backward"
     },
     {
       "key": "shift-backspace",
-      "trigger": "delete-backward"
+      "action": "delete-backward"
     },
     {
       "key": "alt-up",
-      "trigger": "expand-selection"
+      "action": "expand-selection"
     },
     {
       "key": "alt-down",
-      "trigger": "shrink-selection"
+      "action": "shrink-selection"
     },
     {
       "key": "ctrl-shift-up",
-      "trigger": "go-to-prev-symbol"
+      "action": "go-to-prev-symbol"
     },
     {
       "key": "ctrl-shift-down",
-      "trigger": "go-to-next-symbol"
+      "action": "go-to-next-symbol"
     },
     {
       "key": "ctrl-m",
-      "trigger": "matching-brace"
+      "action": "matching-brace"
     },
     {
       "key": "ctrl-`",
-      "trigger": "go-to-theme"
+      "action": "go-to-theme"
     },
     {
       "key": "alt-f1",
-      "trigger": "show-reveal-in-panel"
+      "action": "show-reveal-in-panel"
     },
     {
       "key": "shift shift",
-      "trigger": "show-goto-panel"
+      "action": "show-goto-panel"
     },
     {
       "key": "cmd-shift-a",
-      "trigger": "show-goto-action-panel"
+      "action": "show-goto-action-panel"
     },
     {
       "key": "ctrl-space",
-      "trigger": "completion"
+      "action": "completion"
     },
     {
       "key": "alt-return",
-      "trigger": "quick-fixes"
+      "action": "quick-fixes"
     },
     {
       "key": "alt-numpadreturn",
-      "trigger": "quick-fixes"
+      "action": "quick-fixes"
     },
     {
       "key": "ctrl-shift-space",
-      "trigger": "smart-completion"
+      "action": "smart-completion"
     },
     {
       "key": "cmd-shift-f12",
-      "trigger": "hide-all-panels"
+      "action": "hide-all-panels"
     },
     {
       "key": "alt-shift-up",
-      "trigger": "move-line-up"
+      "action": "move-line-up"
     },
     {
       "key": "alt-shift-down",
-      "trigger": "move-line-down"
+      "action": "move-line-down"
     },
     {
       "key": "cmd-shift-up",
-      "trigger": "move-line-up"
+      "action": "move-line-up"
     },
     {
       "key": "cmd-shift-down",
-      "trigger": "move-line-down"
+      "action": "move-line-down"
     },
     {
       "key": "return",
-      "trigger": "wrap-line"
+      "action": "wrap-line"
     },
     {
       "key": "numpadreturn",
-      "trigger": "wrap-line"
+      "action": "wrap-line"
     },
     {
       "key": "return",
-      "trigger": "confirm"
+      "action": "confirm"
     },
     {
       "key": "shift-return",
-      "trigger": "alternative-confirm"
+      "action": "alternative-confirm"
     },
     {
       "key": "numpadreturn",
-      "trigger": "confirm"
+      "action": "confirm"
     },
     {
       "key": "ctrl-shift-p",
-      "trigger": "show-expression-type"
+      "action": "show-expression-type"
     },
     {
       "key": "cmd-k",
-      "trigger": "git/commit"
+      "action": "git/commit"
     },
     {
       "key": "cmd-0",
-      "trigger": "git/commit"
+      "action": "git/commit"
     },
     {
       "key": "cmd-9",
-      "trigger": "git/jump-to-history"
+      "action": "git/jump-to-history"
     },
     {
       "key": "cmd-shift-k",
-      "trigger": "git/push"
+      "action": "git/push"
     },
     {
       "key": "cmd-t",
-      "trigger": "git/pull"
+      "action": "git/pull"
     },
     {
       "key": "cmd-alt-z",
-      "trigger": "git/revert"
+      "action": "git/revert"
     },
     {
       "key": "cmd-f",
-      "trigger": "find"
+      "action": "find"
     },
     {
       "key": "cmd-r",
-      "trigger": "replace"
+      "action": "replace"
     },
     {
       "key": "return",
-      "trigger": "replace-one"
+      "action": "replace-one"
     },
     {
       "key": "numpadreturn",
-      "trigger": "replace-one"
+      "action": "replace-one"
     },
     {
       "key": "alt-shift-return",
-      "trigger": "replace-all"
+      "action": "replace-all"
     },
     {
       "key": "alt-shift-numpadreturn",
-      "trigger": "replace-all"
+      "action": "replace-all"
     },
     {
       "key": "cmd-x",
-      "trigger": "cut"
+      "action": "cut"
     },
     {
       "key": "shift-delete",
-      "trigger": "delete-backward"
+      "action": "delete-backward"
     },
     {
       "key": "cmd-v",
-      "trigger": "paste"
+      "action": "paste"
     },
     {
       "key": "cmd-shift-v",
-      "trigger": "paste-from-history-buffer"
+      "action": "paste-from-history-buffer"
     },
     {
       "key": "ctrl-n",
-      "trigger": "arrow-down"
+      "action": "arrow-down"
     },
     {
       "key": "ctrl-p",
-      "trigger": "arrow-up"
+      "action": "arrow-up"
     },
     {
       "key": "ctrl-f",
-      "trigger": "arrow-right"
+      "action": "arrow-right"
     },
     {
       "key": "ctrl-b",
-      "trigger": "arrow-left"
+      "action": "arrow-left"
     },
     {
       "key": "ctrl-a",
-      "trigger": "home"
+      "action": "home"
     },
     {
       "key": "ctrl-e",
-      "trigger": "end"
+      "action": "end"
     },
     {
       "key": "cmd-left",
-      "trigger": "home"
+      "action": "home"
     },
     {
       "key": "cmd-right",
-      "trigger": "end"
+      "action": "end"
     },
     {
       "key": "cmd-shift-left",
-      "trigger": "shift-home"
+      "action": "shift-home"
     },
     {
       "key": "cmd-shift-right",
-      "trigger": "shift-end"
+      "action": "shift-end"
     },
     {
       "key": "cmd-a",
-      "trigger": "select-all"
+      "action": "select-all"
     },
     {
       "key": "cmd-a",
-      "trigger": "select-all-terminal"
+      "action": "select-all-terminal"
     },
     {
       "key": "cmd-home",
-      "trigger": "goto-document-start"
+      "action": "goto-document-start"
     },
     {
       "key": "cmd-end",
-      "trigger": "goto-document-end"
+      "action": "goto-document-end"
     },
     {
       "key": "cmd-shift-home",
-      "trigger": "shift-goto-document-start"
+      "action": "shift-goto-document-start"
     },
     {
       "key": "cmd-shift-end",
-      "trigger": "shift-goto-document-end"
+      "action": "shift-goto-document-end"
     },
     {
       "key": "alt-delete",
-      "trigger": "delete-word-forward"
+      "action": "delete-word-forward"
     },
     {
       "key": "alt-backspace",
-      "trigger": "delete-word-backward"
+      "action": "delete-word-backward"
     },
     {
       "key": "cmd-z",
-      "trigger": "undo"
+      "action": "undo"
     },
     {
       "key": "cmd-shift-z",
-      "trigger": "redo"
+      "action": "redo"
     },
     {
       "key": "cmd-return",
-      "trigger": "split-line"
+      "action": "split-line"
     },
     {
       "key": "cmd-numpadreturn",
-      "trigger": "split-line"
+      "action": "split-line"
     },
     {
       "key": "ctrl-k",
-      "trigger": "delete-to-line-end"
+      "action": "delete-to-line-end"
     },
     {
       "key": "cmd-delete",
-      "trigger": "delete-to-line-end"
+      "action": "delete-to-line-end"
     },
     {
       "key": "cmd-backspace",
-      "trigger": "delete-line"
+      "action": "delete-line"
     },
     {
       "key": "cmd-d",
-      "trigger": "duplicate-line"
+      "action": "duplicate-line"
     },
     {
       "key": "cmd-shift-u",
-      "trigger": "toggle-case"
+      "action": "toggle-case"
     },
     {
       "key": "alt-left",
-      "trigger": "goto-word-left"
+      "action": "goto-word-left"
     },
     {
       "key": "alt-right",
-      "trigger": "goto-word-right"
+      "action": "goto-word-right"
     },
     {
       "key": "shift-alt-left",
-      "trigger": "shift-goto-word-left"
+      "action": "shift-goto-word-left"
     },
     {
       "key": "shift-alt-right",
-      "trigger": "shift-goto-word-right"
+      "action": "shift-goto-word-right"
     },
     {
       "key": "cmd-n",
-      "trigger": "new-file"
+      "action": "new-file"
     },
     {
       "key": "cmd-backspace",
-      "trigger": "workspace-tree/delete-file"
+      "action": "workspace-tree/delete-file"
     },
     {
       "key": "cmd-delete",
-      "trigger": "workspace-tree/delete-file"
+      "action": "workspace-tree/delete-file"
     },
     {
       "key": "cmd-w",
-      "trigger": "close-tab"
+      "action": "close-tab"
     },
     {
       "key": "cmd-s",
-      "trigger": "save-all"
+      "action": "save-all"
     },
     {
       "key": "cmd-o",
-      "trigger": "show-goto-panel"
+      "action": "show-goto-panel"
     },
     {
       "key": "cmd-e",
-      "trigger": "show-recent-files-panel"
+      "action": "show-recent-files-panel"
     },
     {
       "key": "alt-f12",
-      "trigger": "toggle-terminal"
+      "action": "toggle-terminal"
     },
     {
       "key": "cmd-shift-o",
-      "trigger": "show-goto-file-panel"
+      "action": "show-goto-file-panel"
     },
     {
       "key": "cmd-l",
-      "trigger": "go-to-line"
+      "action": "go-to-line"
     },
     {
       "key": "cmd-l",
-      "trigger": "clear-terminal"
+      "action": "clear-terminal"
     },
     {
       "key": "alt-cmd-o",
-      "trigger": "show-goto-symbol-panel"
+      "action": "show-goto-symbol-panel"
     },
     {
       "key": "cmd-f12",
-      "trigger": "show-file-symbols"
+      "action": "show-file-symbols"
     },
     {
       "key": "cmd-shift-f",
-      "trigger": "find-in-path"
+      "action": "find-in-path"
     },
     {
       "key": "cmd-shift-r",
-      "trigger": "replace-in-path"
+      "action": "replace-in-path"
     },
     {
       "key": "alt-cmd-l",
-      "trigger": "reformat-code"
+      "action": "reformat-code"
     },
     {
       "key": "ctrl-alt-o",
-      "trigger": "optimize-imports"
+      "action": "optimize-imports"
     },
     {
       "key": "shift-f6",
-      "trigger": "rename"
+      "action": "rename"
     },
     {
       "key": "shift-f6",
-      "trigger": "workspace-tree/rename-file"
+      "action": "workspace-tree/rename-file"
     },
     {
       "key": "cmd-alt-v",
-      "trigger": "extract-variable"
+      "action": "extract-variable"
     },
     {
       "key": "cmd-alt-m",
-      "trigger": "extract-function"
+      "action": "extract-function"
     },
     {
       "key": "ctrl-r",
-      "trigger": "go-to-run"
+      "action": "go-to-run"
     },
     {
       "key": "ctrl-shift-r",
-      "trigger": "run/run-at-caret"
+      "action": "run/run-at-caret"
     },
     {
       "key": "ctrl-alt-r",
-      "trigger": "go-to-run"
+      "action": "go-to-run"
     },
     {
       "key": "ctrl ctrl",
-      "trigger": "go-to-run"
+      "action": "go-to-run"
     },
     {
       "key": "ctrl-shift-d",
-      "trigger": "debug/debug-at-caret"
+      "action": "debug/debug-at-caret"
     },
     {
       "key": "cmd-f8",
-      "trigger": "debug/set-breakpoint"
+      "action": "debug/set-breakpoint"
     },
     {
       "key": "cmd-f2",
-      "trigger": "debug/stop"
+      "action": "debug/stop"
     },
     {
       "key": "alt-cmd-r",
-      "trigger": "debug/resume"
+      "action": "debug/resume"
     },
     {
       "key": "f9",
-      "trigger": "debug/resume"
+      "action": "debug/resume"
     },
     {
       "key": "f8",
-      "trigger": "debug/step-over"
+      "action": "debug/step-over"
     },
     {
       "key": "f7",
-      "trigger": "debug/step-into"
+      "action": "debug/step-into"
     },
     {
       "key": "shift-f8",
-      "trigger": "debug/step-out"
+      "action": "debug/step-out"
     },
     {
       "key": "cmd-n",
-      "trigger": "debug/add-watch"
+      "action": "debug/add-watch"
     },
     {
       "key": "backspace",
-      "trigger": "debug/delete-watch"
+      "action": "debug/delete-watch"
     },
     {
       "key": "delete",
-      "trigger": "debug/delete-watch"
+      "action": "debug/delete-watch"
     },
     {
       "key": "backspace",
-      "trigger": "debug/delete-breakpoint"
+      "action": "debug/delete-breakpoint"
     },
     {
       "key": "delete",
-      "trigger": "debug/delete-breakpoint"
+      "action": "debug/delete-breakpoint"
     },
     {
       "key": "f2",
-      "trigger": "debug/edit-watch"
+      "action": "debug/edit-watch"
     },
     {
       "key": "backspace",
-      "trigger": "debug/drop-frame"
+      "action": "debug/drop-frame"
     },
     {
       "key": "delete",
-      "trigger": "debug/drop-frame"
+      "action": "debug/drop-frame"
     },
     {
       "key": "cmd-alt-f8",
-      "trigger": "debug/quick-evaluate-expression"
+      "action": "debug/quick-evaluate-expression"
     },
     {
       "key": "cmd-/",
-      "trigger": "comment-line"
+      "action": "comment-line"
     },
     {
       "key": "cmd-shift-7",
-      "trigger": "comment-line"
+      "action": "comment-line"
     },
     {
       "key": "cmd-numpaddivide",
-      "trigger": "comment-line"
+      "action": "comment-line"
     },
     {
       "key": "cmd-alt-/",
-      "trigger": "comment-block"
+      "action": "comment-block"
     },
     {
       "key": "cmd-alt-shift-7",
-      "trigger": "comment-block"
+      "action": "comment-block"
     },
     {
       "key": "cmd-alt-numpaddivide",
-      "trigger": "comment-block"
+      "action": "comment-block"
     },
     {
       "key": "cmd-b",
-      "trigger": "go-to-declaration"
+      "action": "go-to-declaration"
     },
     {
       "key": "cmd-shift-b",
-      "trigger": "go-to-type-declaration"
+      "action": "go-to-type-declaration"
     },
     {
       "key": "alt-f7",
-      "trigger": "find-usages"
+      "action": "find-usages"
     },
     {
       "key": "cmd-alt-b",
-      "trigger": "go-to-sub"
+      "action": "go-to-sub"
     },
     {
       "key": "f1",
-      "trigger": "show-documentation"
+      "action": "show-documentation"
     },
     {
       "key": "ctrl-j",
-      "trigger": "show-documentation"
+      "action": "show-documentation"
     },
     {
       "key": "cmd-p",
-      "trigger": "show-parameter-info"
+      "action": "show-parameter-info"
     },
     {
       "key": "shift-escape",
-      "trigger": "hide-active-panel"
+      "action": "hide-active-panel"
     },
     {
       "key": "cmd-alt-1",
-      "trigger": "single-layout"
+      "action": "single-layout"
     },
     {
       "key": "cmd-alt-2",
-      "trigger": "two-columns-layout"
+      "action": "two-columns-layout"
     },
     {
       "key": "cmd-alt-3",
-      "trigger": "two-row-layout"
+      "action": "two-row-layout"
     },
     {
       "key": "ctrl-1",
-      "trigger": "focus-first-split"
+      "action": "focus-first-split"
     },
     {
       "key": "ctrl-2",
-      "trigger": "focus-second-splits"
+      "action": "focus-second-splits"
     },
     {
       "key": "cmd-1",
-      "trigger": "focus-and-toggle-left-panel"
+      "action": "focus-and-toggle-left-panel"
     },
     {
       "key": "cmd-2",
-      "trigger": "focus-and-toggle-bottom-panel"
+      "action": "focus-and-toggle-bottom-panel"
     },
     {
       "key": "cmd-3",
-      "trigger": "focus-and-toggle-right-panel"
+      "action": "focus-and-toggle-right-panel"
     },
     {
       "key": "escape",
-      "trigger": "focus-main-panel"
+      "action": "focus-main-panel"
     },
     {
       "key": "cmd-g",
-      "trigger": "next-occurrence"
+      "action": "next-occurrence"
     },
     {
       "key": "cmd-shift-g",
-      "trigger": "prev-occurrence"
+      "action": "prev-occurrence"
     },
     {
       "key": "return",
-      "trigger": "find-input-next-occurrence"
+      "action": "find-input-next-occurrence"
     },
     {
       "key": "numpadreturn",
-      "trigger": "find-input-next-occurrence"
+      "action": "find-input-next-occurrence"
     },
     {
       "key": "shift-return",
-      "trigger": "find-input-prev-occurrence"
+      "action": "find-input-prev-occurrence"
     },
     {
       "key": "shift-numpadreturn",
-      "trigger": "find-input-prev-occurrence"
+      "action": "find-input-prev-occurrence"
     },
     {
       "key": "f2",
-      "trigger": "next-error"
+      "action": "next-error"
     },
     {
       "key": "shift-f2",
-      "trigger": "prev-error"
+      "action": "prev-error"
     },
     {
       "key": "ctrl-g",
-      "trigger": "select-next-occurrence"
+      "action": "select-next-occurrence"
     },
     {
       "key": "ctrl-cmd-g",
-      "trigger": "select-all-occurrences"
+      "action": "select-all-occurrences"
     },
     {
       "key": "ctrl-shift-g",
-      "trigger": "unselect-occurrence"
+      "action": "unselect-occurrence"
     },
     {
       "key": "alt-shift-g",
-      "trigger": "add-caret-per-selected-line"
+      "action": "add-caret-per-selected-line"
     },
     {
       "key": "cmd-shift-]",
-      "trigger": "next-tab"
+      "action": "next-tab"
     },
     {
       "key": "cmd-shift-ä",
-      "trigger": "next-tab"
+      "action": "next-tab"
     },
     {
       "key": "ctrl-tab",
-      "trigger": "show-switcher"
+      "action": "show-switcher"
     },
     {
       "key": "ctrl-shift-tab",
-      "trigger": "show-switcher-backward"
+      "action": "show-switcher-backward"
     },
     {
       "key": "cmd-shift-[",
-      "trigger": "prev-tab"
+      "action": "prev-tab"
     },
     {
       "key": "cmd-shift-ö",
-      "trigger": "prev-tab"
+      "action": "prev-tab"
     },
     {
       "key": "cmd-]",
-      "trigger": "forward"
+      "action": "forward"
     },
     {
       "key": "cmd-[",
-      "trigger": "back"
+      "action": "back"
     },
     {
       "key": "mouse5",
-      "trigger": "forward"
+      "action": "forward"
     },
     {
       "key": "mouse4",
-      "trigger": "back"
+      "action": "back"
     },
     {
       "key": "cmd-alt-right",
-      "trigger": "forward"
+      "action": "forward"
     },
     {
       "key": "cmd-alt-left",
-      "trigger": "back"
+      "action": "back"
     },
     {
       "key": "cmd-up",
-      "trigger": "up"
+      "action": "up"
     },
     {
       "key": "cmd-0",
-      "trigger": "reset-zoom"
+      "action": "reset-zoom"
     },
     {
       "key": "cmd-=",
-      "trigger": "expand-folding"
+      "action": "expand-folding"
     },
     {
       "key": "cmd-shift-0",
-      "trigger": "expand-folding"
+      "action": "expand-folding"
     },
     {
       "key": "cmd-plus",
-      "trigger": "expand-folding"
+      "action": "expand-folding"
     },
     {
       "key": "cmd-numpadadd",
-      "trigger": "expand-folding"
+      "action": "expand-folding"
     },
     {
       "key": "cmd-minus",
-      "trigger": "collapse-folding"
+      "action": "collapse-folding"
     },
     {
       "key": "cmd-numpadsubtract",
-      "trigger": "collapse-folding"
+      "action": "collapse-folding"
     },
     {
       "key": "ctrl-cmd-f",
-      "trigger": "toggle-full-screen"
+      "action": "toggle-full-screen"
     },
     {
       "key": "ctrl-cmd-=",
-      "trigger": "maximize-window"
+      "action": "maximize-window"
     },
     {
       "key": "cmd-m",
-      "trigger": "minimize-window"
+      "action": "minimize-window"
     },
     {
       "key": "cmd-,",
-      "trigger": "open-settings"
+      "action": "open-settings"
     },
     {
       "key": "cmd-shift-,",
-      "trigger": "edit-settings-file"
+      "action": "edit-settings-file"
     },
     {
       "key": "cmd-return",
-      "trigger": "confirm-dialog"
+      "action": "confirm-dialog"
     },
     {
       "key": "cmd-numpadreturn",
-      "trigger": "confirm-dialog"
+      "action": "confirm-dialog"
     },
     {
       "key": "cmd-return",
-      "trigger": "open-in-tab"
+      "action": "open-in-tab"
     },
     {
       "key": "cmd-2",
-      "trigger": "toggle-goto-preview"
+      "action": "toggle-goto-preview"
     },
     {
       "key": "cmd-numpadreturn",
-      "trigger": "open-in-tab"
+      "action": "open-in-tab"
     },
     {
       "key": "f1",
-      "trigger": "show-quick-fixes-preview"
+      "action": "show-quick-fixes-preview"
     },
     {
       "key": "cmd-c",
-      "trigger": "copy"
+      "action": "copy"
     },
     {
       "key": "cmd-c",
-      "trigger": "copy-from-terminal"
+      "action": "copy-from-terminal"
     },
     {
       "key": "cmd-shift-v",
-      "trigger": "paste-to-terminal"
+      "action": "paste-to-terminal"
     },
     {
       "key": "ctrl-cmd-space",
-      "trigger": "order-emoji-popup"
+      "action": "order-emoji-popup"
     },
     {
       "key": "cmd-shift-return",
-      "trigger": "complete-statement"
+      "action": "complete-statement"
     },
     {
       "key": "cmd-shift-numpadreturn",
-      "trigger": "complete-statement"
+      "action": "complete-statement"
     },
     {
       "key": "cmd-shift-c",
-      "trigger": "copy-path"
+      "action": "copy-path"
     },
     {
       "key": "cmd-u",
-      "trigger": "go-to-super"
+      "action": "go-to-super"
     },
     {
       "key": "cmd-shift-b",
-      "trigger": "go-to-type-declaration"
+      "action": "go-to-type-declaration"
     },
     {
       "key": "shift-ctrl-b",
-      "trigger": "go-to-type-declaration"
+      "action": "go-to-type-declaration"
     },
     {
       "key": "alt-cmd-shift-9",
-      "trigger": "log/collect-rendering-logs"
+      "action": "log/collect-rendering-logs"
     },
     {
       "key": "alt-down",
-      "trigger": "go-to-next-history-item"
+      "action": "go-to-next-history-item"
     },
     {
       "key": "alt-up",
-      "trigger": "go-to-prev-history-item"
+      "action": "go-to-prev-history-item"
     },
     {
       "key": "F4",
-      "trigger": "navigate"
+      "action": "navigate"
     },
     {
       "key": "cmd-down",
-      "trigger": "navigate"
+      "action": "navigate"
     },
     {
       "key": "cmd-period",
-      "trigger": "ai/toggle-inline-ai-prompt"
+      "action": "ai/toggle-inline-ai-prompt"
     },
     {
       "key": "cmd-shift-;",
-      "trigger": "ai/toggle-inline-ai-prompt"
+      "action": "ai/toggle-inline-ai-prompt"
     },
     {
       "key": "alt-left",
-      "trigger": "workspace-tree/alt-arrow-left"
+      "action": "workspace-tree/alt-arrow-left"
     },
 
     {
       "key": "alt-right",
-      "trigger": "workspace-tree/alt-arrow-right"
+      "action": "workspace-tree/alt-arrow-right"
     }
   ]
 }
